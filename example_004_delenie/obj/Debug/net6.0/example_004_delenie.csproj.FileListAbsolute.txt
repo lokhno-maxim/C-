@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\bin\Debug\net6.0\example_004_delenie.exe
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\bin\Debug\net6.0\example_004_delenie.deps.json
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\bin\Debug\net6.0\example_004_delenie.runtimeconfig.json
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\bin\Debug\net6.0\example_004_delenie.dll
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\bin\Debug\net6.0\example_004_delenie.pdb
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\example_004_delenie.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\example_004_delenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\example_004_delenie.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\example_004_delenie.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\example_004_delenie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\example_004_delenie.dll
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\refint\example_004_delenie.dll
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\example_004_delenie.pdb
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\example_004_delenie.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\example_001_helloworld\example_004_delenie\obj\Debug\net6.0\ref\example_004_delenie.dll
